@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Jadoo",
+    "slug": "Jadoo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Jadoo"
+}
