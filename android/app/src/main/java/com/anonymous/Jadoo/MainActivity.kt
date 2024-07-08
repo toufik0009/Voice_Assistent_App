@@ -1,4 +1,4 @@
-package com.jadoo
+package com.anonymous.Jadoo
 
 import android.os.Build
 import android.os.Bundle

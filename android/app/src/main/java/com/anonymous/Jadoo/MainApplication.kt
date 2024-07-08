@@ -1,4 +1,4 @@
-package com.jadoo
+package com.anonymous.Jadoo
 
 import android.app.Application
 import android.content.res.Configuration
